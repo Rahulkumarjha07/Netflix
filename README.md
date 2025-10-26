@@ -57,7 +57,7 @@ This project replicates the look and feel of Spotify’s web player interface, i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Rahulkumarjha07/Netflix.git
+   https://github.com/Rahulkumarjha07/Spotify.git
 
 
 
